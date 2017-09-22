@@ -1,2 +1,2 @@
 # Natural-Language-processing-using-python-nltk
-![Alt text](/certificate12.png "Optional Title")
+![Alt text](/certificate12.PNG "Optional Title")
